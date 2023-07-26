@@ -1,0 +1,38 @@
+.fondo{
+    background-color: rgba(87, 31, 166, 0.942);
+    background-image: url(bg-desktop.svg);
+    background-repeat: no-repeat;
+}
+.title{
+    color: white;
+    font-size: 45px;
+    font-family:"Britannic Bold" , sans-serif;
+    font-weight:500px;
+    text-align: left;
+}
+.parraf {
+    color: white;
+    float: right;
+    text-align: left;
+    margin-right:300px;
+    font-size: 25px;
+}
+.p{
+    font-weight: normal;
+    font-size: 20px;
+}
+.bot{
+    color: rgb(157, 69, 224);
+    background-color: white;
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    border-color: white;
+    font-size:15px;
+}
+.imagenes{
+    float: right;
+    margin-right:200px;
+}
